@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\22pab\Programming\FT3\FT3.jar</jar>
+  <outfile>C:\Users\22pab\Programming\FT3\Finance Tracker V3.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest>C:\Users\22pab\Programming\FT3\app.manifest</manifest>
+  <icon>C:\Users\22pab\Programming\FT3\Files\src\Heading.ico</icon>
+  <singleInstance>
+    <mutexName>Finance Tracker V3.exe</mutexName>
+    <windowTitle>Finance Tracker V3</windowTitle>
+  </singleInstance>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>
